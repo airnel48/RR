@@ -4,7 +4,7 @@ numpy==1.21.0
 pyodbc==4.0.31 
 gensim==4.0.1
 en_core_web_sm==3.1.0
-~treamlit==0.84.1
+streamlit==0.84.1
 streamlit_tags==1.2.8
 seaborn==0.11.1
 pyLDAvis==3.3.1
